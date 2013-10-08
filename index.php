@@ -1,5 +1,6 @@
 <?php
-// All right reserved JC, Ron and Aldrin 2011
+// All right reserved JC, Ron and Aldrin 2011,virgin
+
 $page = $_GET['page'];
 mysql_connect("localhost","root","");
 mysql_select_db("gecko");
